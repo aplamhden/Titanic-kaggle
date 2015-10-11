@@ -12,7 +12,7 @@ prop.table(a,1)
 #frequency model 0.689
 #random forest 0.78469
 #logistic 0.72727
-
+gjlfdkgjdflkgjlfd
 #making first predictions
 
 Survived<-rep(0,length(test[,1]))
